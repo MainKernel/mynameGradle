@@ -1,2 +1,2 @@
 # mynameGradle
-To lounc app run java -jar mynameGradle.jar in Command Prompt
+To lounch app run java -jar mynameGradle.jar in Command Prompt
